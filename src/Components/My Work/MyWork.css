@@ -121,7 +121,7 @@
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 540px) {
     .mywork {
         margin: 40px 20px;
         gap: 40px;
