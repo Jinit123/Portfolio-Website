@@ -283,8 +283,9 @@
 @media (max-width:540px){
     .contact{
         gap: 50px;
-        margin: 50px 70px;
+        margin: 50px 40px;
         align-items: start;
+        text-align: justify;
     }
     .contact-title h1{
         padding: 0;
