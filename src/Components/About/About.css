@@ -184,7 +184,7 @@
 
 @media (max-width: 540px) {
     .about {
-        margin: 40px 20px;
+        margin: 100px 20px;
         gap: 60px;
         align-items: center;
     }
